@@ -1,3 +1,7 @@
+
+live link for the website:- https://hackathon-sage-mu.vercel.app/
+
+
 📚 Study Buddy v2
 A Pomodoro Timer App with To-Do List, Session Tracker, and Dark Mode
 Study Buddy is an interactive web app designed to help you stay focused while studying using the Pomodoro technique. This app also features a to-do list, session tracking, custom session durations, and smooth animations to enhance the user experience.

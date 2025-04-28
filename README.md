@@ -103,5 +103,3 @@ Icons and resources were sourced from free public libraries.
 🛠️ Contributions
 Feel free to open issues or submit pull requests to improve the app. Contributions are always welcome!
 
-aa
-
